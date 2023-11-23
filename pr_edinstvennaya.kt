@@ -1,0 +1,2 @@
+class pr_edinstvennaya {
+}
